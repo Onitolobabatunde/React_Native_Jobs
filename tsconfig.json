@@ -8,5 +8,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "constants/theme.js", "constants/index.js", "app/home.js", "app/index.js", "app/_layout.js"  ]
 }
